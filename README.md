@@ -1,6 +1,6 @@
 ## <> Hello World👋 , I'm Aaryan Mahendra.</>
    
-  ### I am a Software Developer, Competetive programmer from Lucknow,India.
+  ### I am a Software Developer, Competitive programmer from Lucknow,India.
   
  - 👨‍🎓 I'm an IT engineering sophomore at NSUT, Delhi.
  - 🔭 I’m currently working on **Blockchain Development**
