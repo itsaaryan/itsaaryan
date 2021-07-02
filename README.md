@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on ***Web/Blockchain projects***
 - 💬 Ask me about React, Javascript, C++, Blockchain, Solidity.
 - 😄 Pronouns: He/His
+- ⚡ Fun fact: Heaviest object in the unviverse? -> node_modules.
 
 **🌐 Connect with me :**
 
